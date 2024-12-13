@@ -23,8 +23,7 @@ Follow these steps to get the chatbot running on your computer:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/<your-username>/<repository-name>.git
-    cd <repository-name>
+    git clone https://github.com/SrikanthP126/question_and_answer_chatbot.git  
     ```
 
 2. **Install Required Libraries**:
