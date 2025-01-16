@@ -14,7 +14,7 @@ os.environ["LANGCHAIN_PROJECT"]="Simple Q&A Chatbot With Ollama"
 ## Prompt Template
 prompt=ChatPromptTemplate.from_messages(
     [
-        ("system","You are a helpful massistant . Please  repsonse to the user queries"),
+        ("system","You are a helpful assistant . Please  repsonse to the user queries"),
         ("user","Question:{question}")
     ]
 )
